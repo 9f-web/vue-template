@@ -4,13 +4,13 @@
 ### yarn 
 
 ```
-yarn global add general-cli
+yarn global add general-es6-cli
 ```
 
 ### npm 
 
 ```
-npm install -g general-cli
+npm install -g general-es6-cli
 ```
 
 ## Usage
